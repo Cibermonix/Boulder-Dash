@@ -1,1 +1,3 @@
 # Changelog
+
+## git is cool
